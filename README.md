@@ -1,4 +1,4 @@
-# ## This is the source code of Vietnamese Text Summarization In Law News Domain Project of the course IT4772E at HUST.
+## This is the source code of Vietnamese Text Summarization In Law News Domain Project of the course IT4772E at HUST.
 
 ## Contributions
 
